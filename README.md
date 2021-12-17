@@ -2,7 +2,7 @@
 
 This is a repository with the two required projects (as of November 2020) for the completion of SQL Nanodegree program by Udacity:
 
-- _Deforestation Exploration and_
-- _Udiddit a social news aggregator_
+- **Deforestation Exploration and**
+- **Udiddit a social news aggregator**
 
 A separate **README** for each project is going to be added.
