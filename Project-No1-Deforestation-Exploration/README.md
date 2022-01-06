@@ -24,11 +24,11 @@ You will be creating a report for the executive team in which you explain your r
 
 The report has five sections that you will need to complete:
 
-  1 .Global Situation
-  2 .Regional Outlook
-  3 .Country-Level Detail
-  4 .Recommendations
-  5 .Appendix: SQL queries used
+  1. Global Situation
+  2. Regional Outlook
+  3. Country-Level Detail
+  4. Recommendations
+  5. Appendix: SQL queries used
 
 ## 1. GLOBAL SITUATION ##
 
